@@ -6,6 +6,7 @@ index:
     category: 'Category'
     uncategorized: 'uncategorized'
     tag: 'Tag'
+    travel: 'Travel' #personal addition (not done in other languages)
 nav:
     current_page:
         other: 'Page %d '
