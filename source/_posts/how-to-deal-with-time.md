@@ -2,7 +2,7 @@
 title: How to deal with time (in .NET and on Azure)
 date: 2016-05-17 16:28:43
 categories: 
-    - .NET Code
+    - Coding
 tags:
     - .NET
     - DateTime
