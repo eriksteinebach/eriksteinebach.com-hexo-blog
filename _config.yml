@@ -71,8 +71,10 @@ deploy:
   type: git
   repo: https://github.com/eriksteinebach/eriksteinebach.github.io.git
   branch: master
-
-
+  
 feed:
   type: rss2
   limit: 10
+  
+sitemap:
+  path: sitemap.xml
