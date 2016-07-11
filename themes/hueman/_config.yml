@@ -1,0 +1,71 @@
+# Menus
+menu:
+    Home: /
+    Categories:
+    About: /about/
+    Travel: http://www.eriksteinebach.nl
+
+# Customize
+customize:
+    logo:
+        width: 0
+        height: 0
+        url: /images/logo-header.png
+    theme_color: '#006bde'
+    highlight: androidstudio
+    sidebar: left # sidebar position, options: left, right
+    thumbnail: true # enable posts thumbnail, options: true, false
+    favicon: # path to favicon
+    social_links: # for more icons, please see http://fontawesome.io/icons/#brand
+        twitter: http://www.twitter.com/eriksteinebach
+        linkedin: https://www.linkedin.com/in/eriksteinebach
+        facebook: http://www.facebook.com/eriksteinebach
+        instagram: https://instagram.com/eriksteinebach
+        github: https://github.com/eriksteinebach
+        rss: /rss2.xml
+
+# Widgets
+widgets:
+    - about
+    - recent_posts
+    - tagcloud
+    - category
+    - archive
+
+#About widget
+about: 
+    header: About
+    image: /images/about.jpg
+    text: I am a traveler, a .NET developer, an architect, a development process consultant and a new technology enthusiast. Originally from The Netherlands, but currently based in Lima, Peru. I am always looking for new businesses I can help to solve their problems. You can contact me through one of the buttons above.
+
+# Search
+search:
+    insight: true # you need to install `hexo-generator-json-content` before using Insight Search
+    swiftype: # enter swiftype install key here
+    baidu: false # you need to disable other search engines to use Baidu search, options: true, false
+
+# Comment
+comment:
+    disqus: eriksteinebachcom # enter disqus shortname here
+    duoshuo: # enter duoshuo shortname here
+    youyan: # enter youyan uid here
+
+# Share
+share: default # options: jiathis, bdshare, addtoany, default
+
+# Plugins
+plugins:
+    fancybox: true # options: true, false
+    scrollLoading: true # options: true, false
+    google_analytics: UA-30164253-2
+    baidu_analytics: # enter Baidu Analytics hash key
+
+# Miscellaneous
+miscellaneous:
+    open_graph: # see http://ogp.me
+        fb_app_id:
+        fb_admins:
+        twitter_id:
+        google_plus:
+    #links:
+    
