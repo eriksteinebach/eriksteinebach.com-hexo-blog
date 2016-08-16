@@ -78,3 +78,9 @@ feed:
   
 sitemap:
   path: sitemap.xml
+
+seo_structured_data:
+  organization:
+    name: Erik Steinebach
+    url: http://eriksteinebach.com
+    logoUrl: http://eriksteinebach.com/images/about.jpg
